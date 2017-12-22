@@ -1,0 +1,10 @@
+C:\Users\zakharenko\Dropbox\Projects\Biplanes\CoreLib\obj\Debug\CoreLib.csprojResolveAssemblyReference.cache
+C:\Users\zahar\Dropbox\Projects\Biplanes\CoreLib\obj\Debug\CoreLib.csprojResolveAssemblyReference.cache
+C:\Users\zahar\Dropbox\Projects\Biplanes\CoreLib\bin\Debug\CoreLib.dll
+C:\Users\zahar\Dropbox\Projects\Biplanes\CoreLib\bin\Debug\CoreLib.pdb
+C:\Users\zahar\Dropbox\Projects\Biplanes\CoreLib\obj\Debug\CoreLib.dll
+C:\Users\zahar\Dropbox\Projects\Biplanes\CoreLib\obj\Debug\CoreLib.pdb
+C:\Users\zakharenko\Dropbox\Projects\Biplanes\CoreLib\bin\Debug\CoreLib.dll
+C:\Users\zakharenko\Dropbox\Projects\Biplanes\CoreLib\bin\Debug\CoreLib.pdb
+C:\Users\zakharenko\Dropbox\Projects\Biplanes\CoreLib\obj\Debug\CoreLib.dll
+C:\Users\zakharenko\Dropbox\Projects\Biplanes\CoreLib\obj\Debug\CoreLib.pdb

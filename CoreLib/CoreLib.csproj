@@ -39,8 +39,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Entities\BiplaneConstants.cs" />
+    <Compile Include="Entities\IBiplane.cs" />
+    <Compile Include="Physics\Entities\PhysicalObject.cs" />
+    <Compile Include="Entities\Biplane.cs" />
+    <Compile Include="Physics\ForcesFactory.cs" />
+    <Compile Include="Physics\Interfaces\IPhysicalObject.cs" />
+    <Compile Include="Physics\Entities\PhysicalPoint.cs" />
+    <Compile Include="Physics\Entities\PhysicalVector.cs" />
+    <Compile Include="Physics\Operations\PointOperations.cs" />
+    <Compile Include="Physics\PhysicalConstants.cs" />
+    <Compile Include="Physics\Operations\VectorOperations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Operators\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
